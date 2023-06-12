@@ -9,8 +9,6 @@
 
 ## Don't be shy to send me messages I'll try to respond to them.
 
-# And to my and only love...
-
 
 <!---
 EmrePW/EmrePW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
