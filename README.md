@@ -1,11 +1,12 @@
 # Hello fellow human being visiting my questionably simple GitHub Page.
 ## I am humbled to see you reading this nonsense of a text is beyond my appreciation.
 
-# My Skills as of 12.06.2023 (DD/MM/YYYY)
+# My Skills as of 27.11.2023 (DD/MM/YYYY)
 1. HTML5
 2. CSS3 (mid-level)
 3. JS ES6 (little bit)
 4. C++ ( little bit)
+5. Learing ASP.NET
 
 ## Don't be shy to send me messages I'll try to respond to them.
 
