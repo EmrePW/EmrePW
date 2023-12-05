@@ -6,7 +6,8 @@
 2. CSS3 (mid-level)
 3. JS ES6 (little bit)
 4. C++ ( little bit)
-5. Learing ASP.NET
+5. Python (mid-level) Specialized mostly on Machine Learning and Deep Learning
+6. Learing ASP.NET
 
 ## Don't be shy to send me messages I'll try to respond to them.
 
